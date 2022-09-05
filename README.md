@@ -7,10 +7,10 @@ This is as a personal project, created using [React Native] and (https://www.the
 ## Features
 
 - Signup, Login, Logout with firebase
+- See list movies
 - Search movie and tv show
 - Watch trailer videos related
 - See images related to movie
-- Provide every season episode info
 - and many more
 
 ## Installation
