@@ -20,8 +20,8 @@ Make sure you have setup react native environment [here](https://reactnative.dev
 Clone this repo
 
 ```
-$ git clone https://github.com/ahnafalfariza/MoviesDaily.git
-$ cd MoviesDaily
+$ git clone https://github.com/hotanhoang/moviesapp.git
+$ cd MoviesApp
 ```
 
 Install dependencies
@@ -46,7 +46,3 @@ $ npm run android
 ```
 $ npm run ios
 ```
-
-## License
-
-Project is published under the [MIT license](/LICENSE).
